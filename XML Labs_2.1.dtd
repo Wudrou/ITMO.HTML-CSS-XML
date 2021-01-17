@@ -1,0 +1,6 @@
+<!ELEMENT TimeTable (item+)>
+<!ELEMENT item (name, teacher, startdate, finishdate)> 
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT teacher (#PCDATA)> 
+<!ELEMENT startdate (#PCDATA)> 
+<!ELEMENT finishdate (#PCDATA)> 
