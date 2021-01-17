@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resume>
+	<candidate id = "1">
+		<Name>Алексей</Name>
+		<LastName>Навальный</LastName>
+		<PatronymicName>Анатольевич</PatronymicName>
+		<Age>44</Age>
+		<WorkPlace>ФБК</WorkPlace>
+		<Post>политический деятель</Post>
+		<DateOfBirth>04.06.1974</DateOfBirth>
+		<Education>Высшее</Education>
+		<Address>Москва, пр. Где-то, дом какой-то</Address>
+		<Phone>123-45-67</Phone>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary currency = "RUR">100 000</DesiredSalary>
+	</candidate>
+	
+	<candidate id = "2">
+		<Name>Вася</Name>
+		<LastName>Пупкин</LastName>
+		<PatronymicName>Иванович</PatronymicName>
+		<Age>104</Age>
+		<WorkPlace>ООО "Нигде"</WorkPlace>
+		<Post>экономист</Post>
+		<DateOfBirth>02.03.1918</DateOfBirth>
+		<Education>Высшее</Education>
+		<Address>СПб, Серпуховская 13-9</Address>
+		<Phone>987-65-54</Phone>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary currency = "RUR">50 000</DesiredSalary>
+	</candidate>
+	
+	<candidate id = "3">
+		<Name>Ольга</Name>
+		<LastName>Иванова</LastName>
+		<PatronymicName>Сергеевна</PatronymicName>
+		<Age>30</Age>	
+		<WorkPlace>ООО "Строй"</WorkPlace>
+		<Post>менеджер по продажам</Post>
+		<DateOfBirth>19.12.1990</DateOfBirth>
+		<Education>Среднее</Education>
+		<Address>СПб, Дбуновская 12-4</Address>
+		<Phone>122-33-44</Phone>
+		<FamilyStatus>не замужем</FamilyStatus>
+		<DesiredSalary currency = "RUR">35 000</DesiredSalary>
+	</candidate>
+</resume>
